@@ -8,9 +8,6 @@
 
 Welcome to my Github page! I am a Software Engineering Undergraduate student in Cyprus and I am currently in my 3rd year.
 
-<img align="right" alt="img" src="https://feyibadmus.com/images/me-portrait-round.png" width="50%" height="auto" />
-
-
 #### 🌱 Things I am currently working on: 
 - Finishing my Software Engineering Bachelors Degree  
 - Pursuing Certifications in Cybersecurity Field
