@@ -26,6 +26,8 @@ Welcome to my Github page! I am a Software Engineering Undergraduate student in 
 - HTML & CSS
 - JavaScript
 - React & Next.JS
+- NextJS
+- React Native
 - Python
 - PHP
 - C, C++, and C#
